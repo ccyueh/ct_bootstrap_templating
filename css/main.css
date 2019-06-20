@@ -64,6 +64,23 @@ body {
   border-radius: 5px;
 }
 
+label {
+  margin-top: 15px;
+  display: block;
+  font-weight: bold;
+}
+
+input {
+  display: block;
+  margin-top: 15px;
+}
+
+textarea {
+  min-width: 20%;
+  max-width: 100%;
+  resize: both;
+}
+
 footer {
   margin-top: 100px;
   padding: 15px;
